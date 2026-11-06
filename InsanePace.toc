@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Insane Pace
+## Notes: Ryan Lockwood clips for dings, quests, and the route. A hot streak climbs yeah it's this one, two quick ones, look at the pace, then this is fucking it. Level 13 stays silent.
+## Author: Evan
+## Version: 0.7.4
+## SavedVariables: InsanePaceDB
+## Category: Audio
+## IconTexture: Interface\AddOns\InsanePace\InsanePace
+
+InsanePace.lua

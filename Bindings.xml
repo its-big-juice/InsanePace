@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="INSANEPACE_MUTE" category="Insane Pace">
+		InsanePace_ToggleMute()
+	</Binding>
+</Bindings>
